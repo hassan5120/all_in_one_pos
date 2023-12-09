@@ -1,0 +1,11 @@
+{
+    "name": "CityArea",
+    "alias": "cityarea",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CityArea\\Providers\\CityAreaServiceProvider"
+    ],
+    "files": []
+}
